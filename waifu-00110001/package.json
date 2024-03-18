@@ -1,0 +1,22 @@
+{
+  "name": "waifu-00110001",
+  "version": "1.0.0",
+  "description": "First test",
+  "main": "main.js",
+  "author": "アニップ <Hanivan@users.noreply.github.com>",
+  "license": "UNLICENSED",
+  "private": false,
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/H3xR3oN/waifu-00110001.git"
+  },
+  "bugs": {
+    "url": "https://github.com/H3xR3oN/waifu-00110001/issues"
+  },
+  "homepage": "https://github.com/H3xR3oN/waifu-00110001#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/main"
+  }
+}
